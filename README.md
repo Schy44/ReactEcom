@@ -1,3 +1,4 @@
+![image](https://github.com/Schy44/ReactEcom/assets/118424142/380a9e35-7e2d-4faa-a319-4378307ca747)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
