@@ -1,5 +1,8 @@
-![image](https://github.com/Schy44/ReactEcom/assets/118424142/380a9e35-7e2d-4faa-a319-4378307ca747)
-# Getting Started with Create React App
+
+# Getting Started with Cre![Screenshot![Uploading Screenshot 2024-04-25 003956.png.jpg…]()
+ 2024-04-25 004101](https://github.com/Schy44/ReactEcom/assets/118424142/7cc2a8cb-f663-4425-a1c8-a1bd8f847353)
+![Screenshot 2024-04-25 003956 png](https://github.com/Schy44/ReactEcom/assets/118424142/d82b474d-ce09-408c-adba-c0b55d7245b6)
+ate React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
